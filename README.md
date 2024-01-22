@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Tyagi</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iharshit-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="iharshit-tyagi" /> </p>
