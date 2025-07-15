@@ -1,26 +1,55 @@
-<h1 align="center">Hi 👋, I'm Harshit Tyagi</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp"/>
+# 👋 Hey there, I'm Harsh!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharshit-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="iharshit-tyagi" /> </p>
+**Backend Developer | Node.js | Express | MongoDB | REST APIs | Open to Remote & On-site Roles**
 
-- 🌱 I’m currently learning **Javascript , React**
+---
 
-- 💬 Ask me about **React.js**
+## 🚀 About Me
 
-- 📫 How to reach me **harshitt152@gmail.com**
+- 🧑‍💻 2.5+ years of experience in building scalable backend applications  
+- 💾 Proficient in **Node.js, Express.js, MongoDB, JWT, Prisma**  
+- 🌐 Experience integrating third-party APIs and managing database architectures  
+- ☁️ Keen interest in **Cloud Infrastructure** — currently exploring AWS fundamentals  
+- 🔍 Actively looking for **Backend Developer** opportunities (₹8+ LPA) — open to remote & on-site roles anywhere in India  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit-tyagi-922b95201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-tyagi-922b95201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsme_harshit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsme_harshit_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshit-tyagi&show_icons=true&locale=en&layout=compact" alt="iharshit-tyagi" /></p>
+- **Languages:** JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL (basic)
+- **Tools:** Git, Postman, VS Code, Docker (learning)
+- **Cloud:** AWS (beginner level)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iharshit-tyagi&show_icons=true&locale=en" alt="iharshit-tyagi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iharshit-tyagi&" alt="iharshit-tyagi" /></p>
+## 📈 Current Focus
+
+- 📚 Sharpening advanced Node.js concepts (Streams, Clustering, Scaling)
+- ☁️ Diving deeper into **AWS** (EC2, Lambda, S3)
+- ⚒️ Building personal backend projects to showcase scalable architectures  
+
+---
+
+## 📂 Featured Projects
+
+| Project Name        | Tech Stack                   | Description                                       |
+|:--------------------|:----------------------------|:-------------------------------------------------|
+| DevConnect 🚀         | Node.js, Express, MongoDB    | A Tinder-like app for developers to match & chat |
+
+
+👉 Check out my projects [here](https://github.com/your-github-username?tab=repositories)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshit-tyagi-922b95201/)
+- 📧 harshitt152@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I’m the guy who enjoys backend debugging at 2 AM and still has enough energy left to play FIFA 🎮.
